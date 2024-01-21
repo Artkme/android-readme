@@ -22,7 +22,7 @@ Additionally, explore information about teams, including team principals and dri
 Our app requires following permissions:
 * Network Access
 * Access for upload profile picture
-* 
+
 
 # Technologies
 * Kotlin
